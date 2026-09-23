@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-# Mis tps individuales - Laboratorio 1
+## Mis tps individuales - Laboratorio 1
 
 | TP | Repositorio | Comentario |
 |---|---|---|
