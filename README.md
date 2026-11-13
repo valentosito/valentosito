@@ -1,6 +1,6 @@
 # Hi there 👋
 
-
+<!--
 ## Mis tps individuales - Laboratorio 1
 
 | TP | Repositorio | Comentario |
@@ -10,3 +10,5 @@
 | TP6 - Ej. 1 - GUI | [V_TP6-Ej1 - GUI](https://github.com/valentosito/V_Laboratorio1_TP6-Ej1) |
 | TP6 - Ej. 2 - GUI | [V_TP6-Ej2 - GUI](https://github.com/valentosito/V_Laboratorio1_TP6-Ej2) |
 | TP Transversal | [V_Transversal](https://github.com/valentosito/V_Transversal) |
+
+-->
